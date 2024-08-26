@@ -184,5 +184,3 @@ O último módulo será dedicado à revisão dos conteúdos abordados ao longo d
 ### **Considerações Finais:**
 
 Este plano de aula foi cuidadosamente ajustado para oferecer uma carga horária total de 22 horas, garantindo que as atividades sejam adequadas para adolescentes e adultos, com foco na aplicação prática das ferramentas digitais no dia a dia. O curso busca promover a inclusão digital, desenvolvendo competências que são fundamentais tanto para o ambiente de trabalho quanto para os estudos.
-
-Se precisar de mais alguma coisa, estou à disposição!
