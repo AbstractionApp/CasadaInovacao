@@ -45,6 +45,3 @@ O projeto visa ampliar o acesso à educação tecnológica, reduzir a desigualda
 
 A transferência da gestão das Casas de Inovação para a Secretaria Municipal de Educação representa uma evolução natural do projeto, alinhando as atividades de inovação tecnológica às necessidades educacionais do município. Esta mudança fortalecerá o ensino nas escolas municipais e proporcionará à comunidade um acesso mais amplo e estruturado ao conhecimento tecnológico.
 
-**Marcelo Darck Ferreira**  
-Superintendente de Tecnologia da Informação
-
