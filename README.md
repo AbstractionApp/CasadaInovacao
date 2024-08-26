@@ -48,6 +48,3 @@ A transferência da gestão das Casas de Inovação para a Secretaria Municipal 
 **Marcelo Darck Ferreira**  
 Superintendente de Tecnologia da Informação
 
----
-
-Este documento está atualizado e pronto para ser utilizado. Caso precise de mais ajustes, estou à disposição para ajudar.
